@@ -55,17 +55,19 @@
                               <div class="side-content left">
                                   <h6>VENHA CONHECER</h6>
                                   <h2>COTESI</h2>
-                                  <p>O VII Congresso de Tecnologia e Sistemas de Informação (COTESI) é um evento concebido pelo corpo
-                                      docente da área de informática do Câmpus Votuporanga. O COTESI é constituído por palestras,
-                                      minicursos e pela exposição de trabalhos realizada no Workshop de Iniciação Científica e Monografias
-                                      (WICM), que é um seminário integrado ao COTESI. Atualmente a Comissão Organizadora é composta por
-                                      representantes do corpo docente e discente dos cursos de graduação de Sistemas de Informação,
-                                      Análise e Desenvolvimento de Sistemas e do curso técnico em Informática, instituída pela portaria
-                                      nº. VTP.0067/2022, de 23 de agosto de 2022. Este evento tem como intuito complementar a formação
-                                      acadêmica dos alunos e discutir temas atuais da área da Tecnologia da Informação relacionados com o
-                                      Ensino, Pesquisa e Extensão, além de fatos e episódios recentes relacionados a aspectos
-                                      transversais, como Meio Ambiente & Sustentabilidade e Responsabilidade Social. O evento é gratuito e
-                                      aberto à comunidade.</p>
+                                  <p>
+                                    O VIII Congresso de Tecnologia e Sistemas de Informação (COTESI) é um evento concebido pelo corpo 
+                                    docente da área de informática do Câmpus Votuporanga. O COTESI é constituído por palestras, 
+                                    minicursos e pela exposição de trabalhos realizada no Workshop de Iniciação Científica e Monografias 
+                                    (WICM), que é um seminário integrado ao COTESI. Atualmente a Comissão Organizadora é composta por 
+                                    representantes do corpo docente e discente dos cursos de graduação de Sistemas de Informação, 
+                                    Análise e Desenvolvimento de Sistemas e do curso técnico em Informática, instituída pela portaria 
+                                    nº. VTP.247/2023, de 17 de abril de 2023. Este evento tem como intuito complementar a formação 
+                                    acadêmica dos alunos e discutir temas atuais da área da Tecnologia da Informação relacionados com o 
+                                    Ensino, Pesquisa e Extensão, além de fatos e episódios recentes relacionados a aspectos 
+                                    transversais, como Meio Ambiente & Sustentabilidade e Responsabilidade Social. O evento é gratuito e 
+                                    aberto à comunidade.
+                                  </p>
                                   <a href="#eventos" data-scroll-to class="custom-button">
                                       <span class="circle" aria-hidden="true">
                                           <span class="icon arrow"></span>
