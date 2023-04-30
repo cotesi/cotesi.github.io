@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105.742" height="137.743" viewBox="0 0 105.742 137.743">
+  <g id="Group_24" data-name="Group 24" transform="translate(-1440.257 -6412)">
+    <g id="Group_22" data-name="Group 22" transform="translate(0 14)">
+      <line id="Line_15" data-name="Line 15" x2="8" y2="8" transform="translate(1444.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_17" data-name="Line 17" x2="8" y2="8" transform="translate(1460.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_19" data-name="Line 19" x2="8" y2="8" transform="translate(1476.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_21" data-name="Line 21" x2="8" y2="8" transform="translate(1492.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_23" data-name="Line 23" x2="8" y2="8" transform="translate(1508.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_16" data-name="Line 16" x1="8" y2="8" transform="translate(1452.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_18" data-name="Line 18" x1="8" y2="8" transform="translate(1468.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_20" data-name="Line 20" x1="8" y2="8" transform="translate(1484.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_22" data-name="Line 22" x1="8" y2="8" transform="translate(1500.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(0 28)">
+      <line id="Line_15-2" data-name="Line 15" x2="8" y2="8" transform="translate(1444.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_17-2" data-name="Line 17" x2="8" y2="8" transform="translate(1460.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_19-2" data-name="Line 19" x2="8" y2="8" transform="translate(1476.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_21-2" data-name="Line 21" x2="8" y2="8" transform="translate(1492.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_23-2" data-name="Line 23" x2="8" y2="8" transform="translate(1508.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_16-2" data-name="Line 16" x1="8" y2="8" transform="translate(1452.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_18-2" data-name="Line 18" x1="8" y2="8" transform="translate(1468.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_20-2" data-name="Line 20" x1="8" y2="8" transform="translate(1484.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+      <line id="Line_22-2" data-name="Line 22" x1="8" y2="8" transform="translate(1500.5 6509.5)" fill="none" stroke="#f8f628" stroke-linecap="round" stroke-width="6"/>
+    </g>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M45.5,101A45.512,45.512,0,0,1,27.789,13.576,45.221,45.221,0,0,1,45.5,10c1.167,0,2.344.044,3.5.132V31.177A25.441,25.441,0,0,0,46,31a25,25,0,1,0,0,50,25.466,25.466,0,0,0,3-.177v20.045C47.84,100.956,46.663,101,45.5,101Z" transform="translate(1497 6402)" fill="#f8f628"/>
+  </g>
+</svg>
