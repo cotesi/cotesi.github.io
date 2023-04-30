@@ -40,3 +40,7 @@ Flight::route('/', function() {
     Flight::render('home'   , $data);
     Flight::render('footer' , $data);
 });
+
+Flight::route('POST /webkook/clone', function() {
+    require __DIR__ . '/../update/clone.php';
+});
