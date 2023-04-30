@@ -67,7 +67,7 @@
                                     Ensino, Pesquisa e Extensão, além de fatos e episódios recentes relacionados a aspectos 
                                     transversais, como Meio Ambiente & Sustentabilidade e Responsabilidade Social. O evento é gratuito e 
                                     aberto à comunidade.
-                                    </p>
+                                  </p>
                                   <a href="#eventos" data-scroll-to class="custom-button">
                                       <span class="circle" aria-hidden="true">
                                           <span class="icon arrow"></span>
