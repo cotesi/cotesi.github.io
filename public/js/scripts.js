@@ -294,7 +294,7 @@
   if ($("#js-countdown").hasClass("countdown")) {
 
 
-    const countdown = new Date("May 15, 2023");
+    const countdown = new Date("September 7, 2021");
 
     function getRemainingTime(endtime) {
       const milliseconds = Date.parse(endtime) - Date.parse(new Date());

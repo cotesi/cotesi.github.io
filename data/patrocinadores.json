@@ -1,0 +1,33 @@
+[
+    {
+        "name"  :"FlashNet",
+        "url"   :"https://flashnetbrasil.com.br",
+        "logo"  :"flashnet.png"
+    },
+    {
+        "name"  :"He4rt Devs",
+        "url"   :"https://heartdevs.com",
+        "logo"  :"he4rt.png"
+    },
+    {
+        "name"  :"Hostagil",
+        "url"   :"https://hostagil.com.br",
+        "logo"  :"hostagil.png"
+    },
+    {
+        "name"  :"Intelecto",
+        "url"   :"https://nimblevirtual.com.br",
+        "logo"  :"intelecto.png"
+    }, 
+    {
+        "name"  :"Nimble",
+        "url"   :"https://nimblevirtual.com.br",
+        "logo"  :"nimble.png"
+    },
+    {
+        "name"  :"ScyllaDB",
+        "url"   :"https://scylladb.com",
+        "logo"  :"scylla.png"
+    } 
+    
+]
