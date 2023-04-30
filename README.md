@@ -1,2 +1,2 @@
-# cotesi.github.io
-Website
+# cotesi
+Congresso de Tecnologia e Sistemas de Informação
