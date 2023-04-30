@@ -1,0 +1,163 @@
+[
+    {
+        "titulo" : "Dia 1",
+        "data"   : "2023-05-15",
+        "eventos": [
+            {
+                "titulo": "Abertura COTESI",
+                "hora"  : "08:00 às 09:40",
+                "tipo"  : "Presencial",
+                "autor" : "Professores e Alunos Responsáveis",
+                "links" : [
+
+                    {
+                        "pagina": "SUAP",
+                        "url"   : "https://forms.office.com/r/EVfq4we3HM"
+                    }
+                ]
+            },
+            {
+                "titulo": "Tecnologia e desenvolvimento sustentável",
+                "hora"  : "10:50 às 11:40",
+                "tipo"  : "Presencial",
+                "autor" : "Luiz Sérgio Vanzela",
+                "links" : [
+                    {
+                        "pagina": "SUAP",
+                        "url"   : "#"
+                    }
+                ]
+
+            }
+        ]
+    },
+    {
+        "titulo" : "Dia 2",
+        "data"   : "2023-05-16",
+        "eventos": [
+            {
+                "titulo": "Marcos Siríaco",
+                "hora"  : "08:00 às 09:40",
+                "tipo"  : "Presencial",
+                "autor" : "",
+                "links" : [
+
+                    {
+                        "pagina": "SUAP",
+                        "url"   : "#"
+                    }
+                ]
+            },
+            {
+                "titulo": "Bruno Gualda",
+                "hora"  : "10:00 às 11:40",
+                "tipo"  : "Presencial",
+                "autor" : "",
+                "links" : [
+                    {
+                        "pagina": "SUAP",
+                        "url"   : "#"
+                    }
+                ]
+
+            }
+        ]
+    },
+    {
+        "titulo" : "Dia 3",
+        "data"   : "2023-05-17",
+        "eventos": [
+            {
+                "titulo": "Thales Gisuato",
+                "hora"  : "08:00 às 09:40",
+                "tipo"  : "Presencial",
+                "autor" : "",
+                "links" : [
+
+                    {
+                        "pagina": "SUAP",
+                        "url"   : "#"
+                    }
+                ]
+            },
+            {
+                "titulo": "Habilidades do Futuro",
+                "hora"  : "10:00 às 11:40",
+                "tipo"  : "Presencial",
+                "autor" : "Thiago Vespa",
+                "links" : [
+                    {
+                        "pagina": "SUAP",
+                        "url"   : "#"
+                    }
+                ]
+
+            }
+        ]
+    },
+    {
+        "titulo" : "Dia 4",
+        "data"   : "2023-05-18",
+        "eventos": [
+            {
+                "titulo": "Anderson Garcia",
+                "hora"  : "08:00 às 09:40",
+                "tipo"  : "Presencial",
+                "autor" : "",
+                "links" : [
+
+                    {
+                        "pagina": "SUAP",
+                        "url"   : "#"
+                    }
+                ]
+            },
+            {
+                "titulo": "Daniel Reis",
+                "hora"  : "10:00 às 11:40",
+                "tipo"  : "Presencial",
+                "autor" : "",
+                "links" : [
+
+                    {
+                        "pagina": "SUAP",
+                        "url"   : "#"
+                    }
+                ]
+
+            }
+        ]
+    },
+    {
+        "titulo" : "Dia 5",
+        "data"   : "2023-05-19",
+        "eventos": [
+            {
+                "titulo": "Paulo Fernando",
+                "hora"  : "08:00 às 09:40",
+                "tipo"  : "Presencial",
+                "autor" : "",
+                "links" : [
+
+                    {
+                        "pagina": "SUAP",
+                        "url"   : "https://forms.office.com/r/EVfq4we3HM"
+                    }
+                ]
+            },
+            {
+                "titulo": "LGPD - Uma abordagem prática do papel da LGPD na Proteção dos Dados",
+                "hora"  : "10:00 às 11:50",
+                "tipo"  : "Presencial",
+                "autor" : "Luiz Carlos Aguiar",
+                "links" : [
+                    {
+                        "pagina": "SUAP",
+                        "url"   : "h#"
+                    }
+                ]
+
+            }
+        ]
+    }
+]
