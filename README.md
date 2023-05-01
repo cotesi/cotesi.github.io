@@ -1,7 +1,8 @@
-# **COTESI**
-Congresso de Tecnologia e Sistemas de Informação
-* Congresso de Tecnologia e Sistemas de Informação
-* Criação da página oficial do evento cujo domínio é http://cotesi.vtp.ifsp.edu.br/
+# **COTESI** - Congresso de Tecnologia e Sistemas de Informação
+
+Equipe Organizadora é composta por Professores do IFSP (Campus Votuporanga - https://vtp.ifsp.edu.br/) e Alunos do Curso de Sistemas de Informação 
+<br />
+* Página oficial - http://cotesi.vtp.ifsp.edu.br/
 
 **Aplicações e Dados**
 
@@ -29,3 +30,5 @@ Congresso de Tecnologia e Sistemas de Informação
 ## **Instalação via composer:**
 ```php
 composer install
+```
+<br/>
