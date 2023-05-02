@@ -19,7 +19,7 @@
       <nav class="navbar" id="navbar">
           <div class="container">
               <div class="logo">
-                  <a href="index.html">
+                  <a href="#">
                       <img src="public/images/logo-bsi.png" alt="Image">
                       <img src="public/images/logo.png" alt="Image">
                   </a>
