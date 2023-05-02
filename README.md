@@ -3,7 +3,7 @@
   <img alt="GitHub Forks" src="https://img.shields.io/github/forks/cotesi/cotesi.github.io?style=for-the-badge">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/cotesi/cotesi.github.io?style=for-the-badge">
   <img alt="GitHub Issues" src="https://img.shields.io/github/issues/cotesi/cotesi.github.io?style=for-the-badge">
-  <!-- <img alt="GitHub Issues-pr" src="https://img.shields.io/github/issues-pr/cotesi/cotesi.github.io?style=for-the-badge"> -->
+  <img alt="GitHub Issues-pr" src="https://img.shields.io/github/issues-pr/cotesi/cotesi.github.io?style=for-the-badge">
   <img alt="GitHub License" src="https://img.shields.io/github/license/cotesi/cotesi.github.io?style=for-the-badge">
 </div>
 
