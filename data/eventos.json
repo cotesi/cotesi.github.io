@@ -4,10 +4,10 @@
         "data"   : "2023-05-15",
         "eventos": [
             {
-                "titulo": "Abertura COTESI",
+                "titulo": "A vivência em uma software house",
                 "hora"  : "08:00 às 09:40",
                 "tipo"  : "Presencial",
-                "autor" : "Professores e Alunos Responsáveis",
+                "autor" : "Wesley Fernandes",
                 "links" : [
 
                     {
@@ -39,7 +39,7 @@
                 "titulo": "Marcos Siríaco",
                 "hora"  : "08:00 às 09:40",
                 "tipo"  : "Presencial",
-                "autor" : "",
+                "autor" : "Debate: Software Livre",
                 "links" : [
 
                     {
@@ -52,7 +52,7 @@
                 "titulo": "Bruno Gualda",
                 "hora"  : "10:00 às 11:40",
                 "tipo"  : "Presencial",
-                "autor" : "",
+                "autor" : "Primeiros passos em Java com Spring Boot no desenvolvimento de APIs",
                 "links" : [
                     {
                         "pagina": "SUAP",
@@ -103,7 +103,7 @@
                 "titulo": "Anderson Garcia",
                 "hora"  : "08:00 às 09:40",
                 "tipo"  : "Presencial",
-                "autor" : "",
+                "autor" : "O uso da tecnologia da informação para resolver o gargalo de produtividade do setor de Construção Civil",
                 "links" : [
 
                     {
@@ -153,7 +153,7 @@
                 "links" : [
                     {
                         "pagina": "SUAP",
-                        "url"   : "h#"
+                        "url"   : "#"
                     }
                 ]
 
