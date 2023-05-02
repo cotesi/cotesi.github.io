@@ -2,7 +2,7 @@
 
 Equipe Organizadora é composta por Professores do IFSP (Campus Votuporanga - https://vtp.ifsp.edu.br/) e Alunos do Curso de Sistemas de Informação 
 <br />
-* Página oficial - http://cotesi.vtp.ifsp.edu.br/
+* Página oficial - https://cotesi.org
 
 **Aplicações e Dados**
 
