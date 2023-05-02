@@ -1,5 +1,5 @@
 <?php foreach($patrocinadores as $key => $patrocinador) : ?>
-    <div class="col-md col-6">
+    <div class="col-md-3 col-6 mb-4">
         <div>
             <div class="sponsors">
                 <a href="<?= $patrocinador->url ?>" target="_blank">
