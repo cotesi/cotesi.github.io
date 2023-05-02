@@ -28,6 +28,15 @@
         "name"  :"ScyllaDB",
         "url"   :"https://scylladb.com",
         "logo"  :"scylla.png"
+    }, 
+    {
+        "name"  :"NKN Digital",
+        "url"   :"https://www.nkndigital.com.br/",
+        "logo"  :"nkn_digital.png"
+    }, 
+    {
+        "name"  :"Code Software",
+        "url"   :"https://www.codesoftware.com.br/",
+        "logo"  :"code_software.png"
     } 
-    
 ]
