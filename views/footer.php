@@ -11,7 +11,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.instagram.com/ifspvotuporanga/" target="_blank">
+                            <a href="https://www.instagram.com/ifsp.cotesi/" target="_blank">
                                 <i class="fab fa-instagram"></i>
                                 <span>Instagram</span>
                             </a>
@@ -31,7 +31,7 @@
         <!-- end container -->
         <div class="bottom-bar">
             <div class="container">
-                <span class="copyright text-center w-100"> © 2022 COTESI (Congresso de Tecnologia e Sistemas de Informação)
+                <span class="copyright text-center w-100"> © 2023 COTESI (Congresso de Tecnologia e Sistemas de Informação)
                     | IFSP CAMPUS VOTUPORANGA <br />
                     <span>Desenvolvido com <i class="fas fa-heart"></i> em Votuporanga por alunos do curso de Bacharelado em
                         Sistemas de Informação. </span>
