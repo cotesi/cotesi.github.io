@@ -6,7 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="theme-color" content="#ffa401" />
   <title><?= $titulo ?></title>
-  <meta name="author" content="Husani Santos">
   <meta name="description" content="">
   <meta name="keywords" content="cotesi, ifsp, votuporanga">
   <!-- SOCIAL MEDIA META -->
