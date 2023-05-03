@@ -182,6 +182,9 @@
                                                       <div class="event-description">
                                                           <h5><?= $subevent->titulo ?></h5>
                                                           <p><?= $subevent->autor ?></p>
+                                                          <?php if (!empty($subevent->descricao)) : ?>
+                                                            <p><?= $subevent->descricao ?></p>
+                                                          <?php endif; ?>
 
                                                           <?php if (!empty($subevent->links)) : ?>
                                                               <?php foreach ($subevent->links as $link) : ?>

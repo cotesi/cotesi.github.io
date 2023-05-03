@@ -36,12 +36,17 @@
         "data"   : "2023-05-16",
         "eventos": [
             {
-                "titulo": "Debate: Software Livre",
-                "hora"  : "08:00 às 09:40",
-                "tipo"  : "Presencial",
-                "autor" : "Marcos Siríaco",
+                "titulo"    : "Debate: Software Livre",
+                "hora"      : "08:00 às 09:40",
+                "tipo"      : "Presencial",
+                "autor"     : "Marcos Siriaco",
+                "descricao" : "Realize perguntas em um bate-papo sobre Software Livre com Marcos Siriaco, um dos responsáveis pelo Programa de Software Livre da Itaipu, que é referência nacional e internacional! Basta enviar sua pergunta seguindo o link abaixo.",
                 "links" : [
 
+                    {
+                        "pagina": "ENVIE AQUI",
+                        "url"   : "https://forms.gle/Xp7e3ekxPTRwj56BA"
+                    },
                     {
                         "pagina": "SUAP",
                         "url"   : "#"
