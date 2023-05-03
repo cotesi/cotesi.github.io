@@ -31,9 +31,9 @@ class Slide {
         }        
 
         Flight::render('includes/slides', [
-            'eventos'   => $eventos,
+            'eventos'   => $eventos, 
             'slugify'   => $slug,
-            'date'      => $date
+            'date'      => $date,
         ]);
     }
 }

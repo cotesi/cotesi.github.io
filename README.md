@@ -34,6 +34,9 @@ Aprenda como utilizar e testar a plataforma!
   - [PHP](https://www.php.net) previamente instalado;
   - [Composer](https://getcomposer.org) instalado como gerenciador de dependências do PHP. Clique [aqui](https://getcomposer.org/download) para visualizar o processo de download e instalação do Composer em seu sistema operacional!
   
+### Requisitos
+
+  - Extensão intl do PHP;
 
 ### Instalação
 
