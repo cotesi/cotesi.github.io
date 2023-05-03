@@ -7,7 +7,7 @@
   <meta name="theme-color" content="#ffa401" />
   <title><?= $titulo ?></title>
   <meta name="description" content="">
-  <meta name="keywords" content="cotesi, ifsp, votuporanga">
+  <meta name="keywords" content="cotesi, ifsp, votuporanga, josue">
   <!-- SOCIAL MEDIA META -->
   <meta property="og:description" content="COTESI - Congresso de Tecnologia e Sistemas da Informação">
   <meta property="og:image" content="">
