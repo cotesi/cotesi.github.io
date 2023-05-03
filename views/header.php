@@ -14,7 +14,7 @@
   <meta property="og:site_name" content="COTESI">
   <meta property="og:title" content="Cotesi">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://cotesi.vtp.ifsp.edu.br">
+  <meta property="og:url" content="https://cotesi.org">
   <!-- TWITTER META -->
   <meta name="twitter:card" content="">
   <meta name="twitter:site" content="@cotesi">
