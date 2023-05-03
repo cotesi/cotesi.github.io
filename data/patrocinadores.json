@@ -1,5 +1,10 @@
 [
     {
+        "name"  :"Code Software",
+        "url"   :"https://www.codesoftware.com.br",
+        "logo"  :"code_software.png"
+    },
+    {
         "name"  :"FlashNet",
         "url"   :"https://flashnetbrasil.com.br",
         "logo"  :"flashnet.png"
@@ -18,6 +23,11 @@
         "name"  :"Intelecto",
         "url"   :"https://intelecto.solutions",
         "logo"  :"intelecto.png"
+    },
+    {
+        "name"  :"NKN Digital",
+        "url"   :"https://www.nkndigital.com.br",
+        "logo"  :"nkn_digital.png"
     }, 
     {
         "name"  :"Nimble",
@@ -28,6 +38,5 @@
         "name"  :"ScyllaDB",
         "url"   :"https://scylladb.com",
         "logo"  :"scylla.png"
-    } 
-    
+    }
 ]
