@@ -73,10 +73,10 @@
         "data"   : "2023-05-17",
         "eventos": [
             {
-                "titulo": "Thales Gisuato",
+                "titulo": "Ataque DDoS - O que é e como se proteger?",
                 "hora"  : "08:00 às 09:40",
                 "tipo"  : "Presencial",
-                "autor" : "",
+                "autor" : "Thales Gisuato",
                 "links" : [
 
                     {
