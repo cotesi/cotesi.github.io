@@ -8,7 +8,23 @@
 
 # **COTESI** - Congresso de Tecnologia e Sistemas de Informação <img align="right" src="public/ico/favicon.png" width="100">
 
-Este é um projeto com ênfase no desenvolvimento de uma plataforma web para apresentação sobre o Congresso de Tecnologia e Sistemas de Informação do IFSP Campus Votuporanga, sendo desenvolvido pela comissão organizadora.
+Este é um projeto com ênfase no desenvolvimento de uma plataforma web para apresentação sobre o Congresso de Tecnologia e Sistemas de Informação do IFSP Campus Votuporanga, sendo desenvolvido pela comissão organizadora. 
+
+# **WICM** - Workshop de Iniciação Científica e Monografias 
+
+Neste projeto também temos o WICM que é o Workshop de Iniciação Científica e Monografias,basta montar sua apresentação de acordo com os templates disponibilizados e se inscrever utilizando o formulário apenas clicando [aqui](https://forms.gle/z3oAnYfHeBNQbtcG6).
+
+## TEMPLATES WICM
+
+[KEYNOTE](https://cotesi.org/wicm/template_wicm.key)
+
+[ODP](https://cotesi.org/wicm/template_wicm.odp)
+
+[OTP](https://cotesi.org/wicm/template_wicm.otp)
+
+[PPTX](https://cotesi.org/wicm/template_wicm.pptx)
+
+[PDF](https://cotesi.org/wicm/template_wicm.pdf)
 
 Equipe Organizadora é composta por Professores do IFSP (Campus Votuporanga - https://vtp.ifsp.edu.br/) e Alunos do Curso de Sistemas de Informação 
 <br />
