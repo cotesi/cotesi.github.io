@@ -30,6 +30,27 @@ Equipe Organizadora é composta por Professores do IFSP (Campus Votuporanga - ht
 <br />
 * Página oficial - https://cotesi.org
 
+## Patrocinadores do Evento
+
+[CodeSoftware](https://www.codesoftware.com.br/)
+
+[Flash Net Brasil](https://flashnetbrasil.com.br/)
+
+[He4rt Developers](https://heartdevs.com/)
+
+[Hostagil](https://hostagil.com.br/)
+
+[Intelecto Solutions](https://intelecto.solutions/)
+
+[NKN Digital](https://www.nkndigital.com.br/)
+
+[Nimble Vitual Solutions](https://nimblevirtual.com.br/)
+
+[ScyllaDB](https://www.scylladb.com/)
+
+[CodeSoftware](https://www.codesoftware.com.br/)
+
+
 ## Descrição
 
 O maior objetivo é o desenvolvimento de uma aplicação web para apresentação do evento, com links para materiais completos, utilizando as tecnologias citadas abaixo:
