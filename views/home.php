@@ -200,6 +200,17 @@
                                                                   <!-- FIM DO BOTÃO COM EFEITO -->
                                                               <?php endforeach; ?>
                                                           <?php endif; ?>
+
+                                                          <?php if (!empty($subevent->oficina)) : ?>
+                                                              <?php foreach ($subevent->oficina as $oficina) : ?>
+                                                                  <!-- INICIO DO BOTÃO COM EFEITO -->
+                                                                  <div class="d-block w-100 mb-3">
+                                                                      <h5><?= $oficina->titulo ?></h5>
+                                                                      <p><?= $oficina->ministrante ?></p>                                                
+                                                                  </div>
+                                                                  <!-- FIM DO BOTÃO COM EFEITO -->
+                                                              <?php endforeach; ?>
+                                                          <?php endif; ?>
                                                       </div>
                                                       <!-- end event-description -->
                                                   </div>

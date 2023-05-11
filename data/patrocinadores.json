@@ -5,6 +5,11 @@
         "logo"  :"code_software.png"
     },
     {
+        "name"  :"Facchini",
+        "url"   :"https://www.facchini.com.br",
+        "logo"  :"facchini.png"
+    },
+    {
         "name"  :"FlashNet",
         "url"   :"https://flashnetbrasil.com.br",
         "logo"  :"flashnet.png"
@@ -26,7 +31,7 @@
     },
     {
         "name"  :"Jowanel",
-        "url"   :"https://www.jowanel.com.br/",
+        "url"   :"https://www.jowanel.com.br",
         "logo"  :"jowanel.png"
     },
     {
@@ -38,6 +43,11 @@
         "name"  :"Nimble",
         "url"   :"https://nimblevirtual.com.br",
         "logo"  :"nimble.png"
+    },
+    {
+        "name"  :"Porecatu",
+        "url"   :"https://www.superporecatu.com.br",
+        "logo"  :"porecatu.png"
     },
     {
         "name"  :"ScyllaDB",

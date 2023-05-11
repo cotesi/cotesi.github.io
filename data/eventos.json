@@ -130,6 +130,36 @@
                     }
                 ]
 
+            },
+            {
+                "titulo": "Oficinas",
+                "hora"  : "13:30 às 17:00",
+                "tipo"  : "Presencial",
+                "autor" : "Professores e alunos do IFSP",
+                "descricao" : "As oficinas são cursos de curta duração com período médio de 4 horas, na qual um aluno poderá participar utilizando um laboratório de informática para realização das atividades. As inscrições serão realizadas no dia do evento, por isso, para mais informações acesse nosso <a href='https://instagram.com/ifsp.cotesi' style='color: blue' target='_blank'>instagram</a>!",
+                "oficina" : [
+                    {
+                        "titulo"      : "Introdução ao LaTeX - processando e formatando seus textos acadêmicos de forma simples",
+                        "ministrante" : "Cris Paschoali"
+                    },
+                    {
+                        "titulo"      : "Cybersegurança: da privacidade a investigação digital",
+                        "ministrante" : "Ubiratan Nascimento"
+                    },
+                    {
+                        "titulo"      : "Como controlar o meu primeiro robô por meio da plataforma Arduino",
+                        "ministrante" : "Natal Henrique Cordeiro"
+                    },
+                    {
+                        "titulo"      : "Gerenciadores de referências bibliográficas - Mendeley",
+                        "ministrante" : "Eduardo Prando"
+                    },
+                    {
+                        "titulo"      : "Crystal: uma linguagem para humanos e computadores",
+                        "ministrante" : "João Lanjoni"
+                    }
+                ]
+
             }
         ]
     },
