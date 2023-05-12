@@ -240,7 +240,7 @@
                   <div class="row justify-content-center text-center">
                       <div class="col-12">
                           <div data-scroll data-scroll-speed="0.5">
-                              <div class="section-title text-center">
+                              <div id="apoiadores" class="section-title text-center">
                                   <figure>
                                       <img src="public/images/title-shape.png" alt="Image">
                                   </figure>
