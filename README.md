@@ -14,6 +14,10 @@ Equipe Organizadora é composta por Professores do IFSP (Campus Votuporanga - ht
 <br />
 * Página oficial - https://cotesi.org
 
+### WICM - Workshop de Iniciação Científica e Monografias
+
+Se você é aluno ou pesquisador e deseja apresentar seu trabalho no Workshop de Iniciação Científica e Monografias (WICM) saiba que o processo é muito simples! Basta montar sua apresentação de acordo com os templates disponibilizados! Para mais informações clique [aqui](https://cotesi.org/#wicm)!
+
 ## Descrição
 
 O maior objetivo é o desenvolvimento de uma aplicação web para apresentação do evento, com links para materiais completos, utilizando as tecnologias citadas abaixo:
