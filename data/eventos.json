@@ -1,34 +1,73 @@
 [
     {
-        "titulo" : "Dia 1",
-        "data"   : "2023-05-15",
-        "current": true,
+        "titulo": "Dia 1",
+        "data": "2023-05-15",
         "eventos": [
             {
-                "titulo": "A vivência em uma software house",
-                "hora"  : "08:00 às 09:40",
-                "tipo"  : "Presencial",
-                "autor" : "Wesley Fernandes",
-                "links" : [
-
+                "titulo": "Abertura COTESI",
+                "hora": "08:00 às 09:40",
+                "tipo": "Presencial",
+                "autor": "Professores e Alunos Responsáveis",
+                "links": [
                     {
                         "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4398/"
+                        "url": "https://forms.office.com/r/EVfq4we3HM"
                     }
                 ]
             },
             {
-                "titulo": "Tecnologia e desenvolvimento sustentável",
-                "hora"  : "10:00 às 11:40",
-                "tipo"  : "Presencial",
-                "autor" : "Luiz Sérgio Vanzela",
-                "links" : [
-                    {
-                        "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4399/"
-                    }
-                ]
-
+                "titulo": "Sunset - Sistema Bibliotecário",
+                "hora": "13:30",
+                "tipo": "Presencial",
+                "autor": "Sofia e João (PRI 3 info)"
+            },
+            {
+                "titulo": "Protótipos funcionais de dispositivos do Sidai: um sistema de detecção e alarme de Incêndio baseado em tecnologias da Internet das coisas.",
+                "hora": "13:50",
+                "tipo": "Presencial",
+                "autor": "Maria Luiza (IC-EE)"
+            },
+            {
+                "titulo": "Sistema para divulgação de artistas (apolo)",
+                "hora": "14:15",
+                "tipo": "Presencial",
+                "autor": "Alexia e Zagatto  (PRI 3 info)"
+            },
+            {
+                "titulo": "Eagle pet: plataforma de apoio à adoção, proteção e busca poranimais domésticos perdidos",
+                "hora": "14:35" ,
+                "tipo": "Presencial",
+                "autor": "Marco Aurélio (TCC 3 info)"
+            },
+            {
+                "titulo": "Meraki - banco de sangue virtual",
+                "hora": "14:50",
+                "tipo": "Presencial",
+                "autor": "Julia Geromello  (PRI 2 info)"
+            },
+            {
+                "titulo": "Impactos da inteligência artificial na composição de imagens artísticas: uma revisão bibliográfica",
+                "hora": "15:20",
+                "tipo": "Presencial",
+                "autor": "Sofia (IC – INFO)"
+            },
+            {
+                "titulo": "Arte, tecnologia,Natureza e ciência",
+                "hora": "15:40",
+                "tipo": "Presencial",
+                "autor": "Prof Anésio (Pesquisa)"
+            },
+            {
+                "titulo": "Meeting faces",
+                "hora": "16:10",
+                "tipo": "Presencial",
+                "autor": "Vitor Fabio (PRI 2 info)"
+            },
+            {
+                "titulo": "Dvqpv-p2: evolução e aprimoramento de protótipo de dispositivo aplicável à verificação da qualidade de válvulas neurológicas para hidrocefalia quanto as característica de pressão e vazão",
+                "hora": "16:30",
+                "tipo": "Presencial",
+                "autor": "Miguel Marques (IC-EE)"
             }
         ]
     },
