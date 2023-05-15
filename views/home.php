@@ -122,6 +122,11 @@
                                       <li><a href="wicm/template_wicm.pdf" target="_blank" style="color: red">PDF</a></li>
                                   </ul>
                                   </p>
+                                  <br/>
+                                  <h3>APRESENTAÇÕES</h3>
+                                    <p>
+                                        <img src="public/images/Lista_WICM.png"/>
+                                    </p>
                               </div>
                               <!-- end side-content -->
                           </div>
