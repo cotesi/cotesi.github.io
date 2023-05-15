@@ -1,17 +1,33 @@
 [
     {
+        "titulo" : "Dia 1",
+        "data"   : "2023-05-15",
+        "current": true,
         "titulo": "Dia 1",
         "data": "2023-05-15",
         "eventos": [
             {
-                "titulo": "Abertura COTESI",
-                "hora": "08:00 às 09:40",
-                "tipo": "Presencial",
-                "autor": "Professores e Alunos Responsáveis",
-                "links": [
+                "titulo": "A vivência em uma software house",
+                "hora"  : "08:00 às 09:40",
+                "tipo"  : "Presencial",
+                "autor" : "Wesley Fernandes",
+                "links" : 
+                [
                     {
                         "pagina": "SUAP",
-                        "url": "https://forms.office.com/r/EVfq4we3HM"
+                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4398/"
+                    }
+                ]
+            },
+            {
+                "titulo": "Tecnologia e desenvolvimento sustentável",
+                "hora"  : "10:00 às 11:40",
+                "tipo"  : "Presencial",
+                "autor" : "Luiz Sérgio Vanzela",
+                "links" : [
+                    {
+                        "pagina": "SUAP",
+                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4399/"
                     }
                 ]
             },
