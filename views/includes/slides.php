@@ -5,7 +5,7 @@
                 <div class="events-slider-content">
                     <div class="swiper-wrapper">
                         <?php foreach($eventos as $key => $evento) : ?>
-                            <?php if(isset($evento->current)) : ?>
+                            <?php if(isset($eventos[$key]->current)) : ?>
                                 <?php foreach ($evento->eventos as $subkey => $subevent) : ?>
                                     <div class="swiper-slide">
                                         <div class="inner">
@@ -49,7 +49,7 @@
                 <div class="events-slider-images">
                     <div class="swiper-wrapper">
                         <?php foreach($eventos as $key => $evento) : ?>
-                            <?php if(isset($evento->current)) : ?>
+                            <?php if(isset($eventos[$key]->current)) : ?>
                                 <?php foreach ($evento->eventos as $subkey => $subevent) : ?>
                                     <div class="swiper-slide">
                                         <div class="slide-image" data-background="public/images/slide-image01.jpg"></div>

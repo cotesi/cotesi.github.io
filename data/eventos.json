@@ -2,6 +2,7 @@
     {
         "titulo" : "Dia 1",
         "data"   : "2023-05-15",
+        "current": true,
         "eventos": [
             {
                 "titulo": "A vivência em uma software house",

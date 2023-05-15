@@ -7,7 +7,7 @@
   <meta name="theme-color" content="#ffa401" />
   <title><?= $titulo ?></title>
   <meta name="description" content="">
-  <meta name="keywords" content="cotesi, ifsp, votuporanga, josue">
+  <meta name="keywords" content="cotesi, ifsp, votuporanga">
   <!-- SOCIAL MEDIA META -->
   <meta property="og:description" content="COTESI - Congresso de Tecnologia e Sistemas da Informação">
   <meta property="og:image" content="">
@@ -27,7 +27,7 @@
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="Expires" content="0" />
-  <link href="ico/favicon.png" rel="shortcut icon">
+  <link href="public/images/logo-bsi.png" rel="shortcut icon">
   <!-- CSS FILES -->
   <link rel="stylesheet" href="public/css/fontawesome.min.css">
   <link rel="stylesheet" href="public/css/swiper.min.css">
