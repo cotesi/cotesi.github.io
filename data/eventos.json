@@ -2,7 +2,6 @@
     {
         "titulo" : "Dia 1",
         "data"   : "2023-05-15",
-        "current": true,
         "titulo": "Dia 1",
         "data": "2023-05-15",
         "eventos": [
@@ -36,6 +35,7 @@
     {
         "titulo" : "Dia 2",
         "data"   : "2023-05-16",
+        "current": true,
         "eventos": [
             {
                 "titulo"    : "Bate-papo: Software Livre",

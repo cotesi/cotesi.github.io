@@ -28,13 +28,6 @@ Flight::route('/', function() {
         'date'      => $date
     ];
 
-    foreach ($data['eventos'] as $key => $value) {
-        if ($key === key($data['eventos'])) {
-            $data['eventos'][$key]->current = true;
-        } else {
-            $data['eventos'][$key]->current = false;
-        }
-    }
  
     Flight::render('header' , $data);
     Flight::render('home'   , $data);

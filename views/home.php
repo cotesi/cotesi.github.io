@@ -165,7 +165,7 @@
                               <div class="schedule-box">
                                   <div class="nav">
                                       <?php foreach ($eventos as $key => $evento) { ?>
-                                          <div <?= ($evento->current ? 'class="active"' : '') ?> data-bs-toggle="tab" data-bs-target="#tab-content-<?= $slugify->slugify($evento->titulo) ?>">
+                                          <div <?= (!empty($evento->current) ? 'class="active"' : '') ?> data-bs-toggle="tab" data-bs-target="#tab-content-<?= $slugify->slugify($evento->titulo) ?>">
                                               <span class="day"><?= $evento->titulo ?></span>
                                               <small class="date"><?= $date->format($evento->data);  ?></small>
                                           </div>
@@ -177,7 +177,7 @@
                                   <div class="tab-content">
 
                                       <?php foreach ($eventos as $key => $evento) { ?>
-                                          <div <?= ($evento->current ? 'class="tab-pane active"' : 'class="tab-pane"') ?> id="tab-content-<?= $slugify->slugify($evento->titulo) ?>">
+                                          <div <?= ( !empty($evento->current ) ? 'class="tab-pane active"' : 'class="tab-pane"') ?> id="tab-content-<?= $slugify->slugify($evento->titulo) ?>">
                                               <?php foreach ($evento->eventos as $subkey => $subevent) { ?>
                                                   <div class="timeline">
                                                       <div class="event-time">
