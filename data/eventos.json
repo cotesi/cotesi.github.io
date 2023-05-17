@@ -1,8 +1,6 @@
 [
     {
         "titulo" : "Dia 1",
-        "data"   : "2023-05-15",
-        "titulo": "Dia 1",
         "data": "2023-05-15",
         "eventos": [
             {
@@ -35,7 +33,6 @@
     {
         "titulo" : "Dia 2",
         "data"   : "2023-05-16",
-        "current": true,
         "eventos": [
             {
                 "titulo"    : "Bate-papo: Software Livre",
@@ -105,6 +102,7 @@
     {
         "titulo" : "Dia 4",
         "data"   : "2023-05-18",
+        "current": true,
         "eventos": [
             {
                 "titulo": "O uso da tecnologia da informação para resolver o gargalo de produtividade do setor de Construção Civil",
