@@ -102,7 +102,6 @@
     {
         "titulo" : "Dia 4",
         "data"   : "2023-05-18",
-        "current": true,
         "eventos": [
             {
                 "titulo": "O uso da tecnologia da informação para resolver o gargalo de produtividade do setor de Construção Civil",
@@ -166,6 +165,7 @@
     {
         "titulo" : "Dia 5",
         "data"   : "2023-05-19",
+        "current": true,
         "eventos": [
             {
                 "titulo": "Indústria 4.0. A quarta revolução industrial.",
