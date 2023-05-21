@@ -27,7 +27,7 @@
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="Expires" content="0" />
-  <link href="public/images/logo-bsi.png" rel="shortcut icon">
+  <link href="public/ico/favicon.png" rel="shortcut icon">
   <!-- CSS FILES -->
   <link rel="stylesheet" href="public/css/fontawesome.min.css">
   <link rel="stylesheet" href="public/css/swiper.min.css">
