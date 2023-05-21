@@ -111,7 +111,8 @@
                                       Se você é aluno ou pesquisador e deseja apresentar seu trabalho no Workshop de Iniciação Científica e
                                       Monografias (WICM) saiba que o processo é muito simples! Basta montar sua apresentação de acordo com
                                       os templates disponibilizados e se inscrever utilizando o formulário apenas clicando <a href="https://forms.gle/z3oAnYfHeBNQbtcG6" target="_blank" style="color: blue"><b>aqui</b></a>.
-
+                                      <br/><br/>
+                                      Para acessar os slides das apresentações clique <a href="https://drive.google.com/drive/folders/1WAZ8Y55NuFdIziWflecLbsVJRCChw5h4?usp=share_link">aqui</a>!
                                       <br /><br />
                                       <b>Templates:</b>
                                   <ul>
