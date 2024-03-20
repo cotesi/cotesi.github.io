@@ -83,13 +83,13 @@ export default function Home() {
           />
           </a>
           <a
-            href="https://www.meteor.com/"
-            className="mt-3 lg:mt-0"
+            href="https://www.facchini.com.br/"
+            className="mt-6 lg:mt-6"
             target="_blank"
           >
           <Image
-            src="/meteor.webp"
-            alt="Meteor logo"
+            src="/facchini.png"
+            alt="Facchini logo"
             width={150}
             height={150}
             priority
