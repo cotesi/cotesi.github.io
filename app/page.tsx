@@ -36,7 +36,7 @@ export default function Home() {
           />
         </div>
         <p className="mt-4">
-          Dos dias 13 a 17 de maio de 2024
+          Dos dias 9 a 13 de setembro de 2024
         </p>
       </div>
 
