@@ -1,30 +1,18 @@
 [
     {
         "titulo" : "Dia 1",
-        "data": "2023-05-15",
+        "data": "2024-09-11",
         "eventos": [
             {
-                "titulo": "A vivência em uma software house",
-                "hora"  : "08:00 às 09:40",
-                "tipo"  : "Presencial",
-                "autor" : "Wesley Fernandes",
-                "links" : 
-                [
-                    {
-                        "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4398/"
-                    }
-                ]
-            },
-            {
-                "titulo": "Tecnologia e desenvolvimento sustentável",
+                "titulo": "Projeto Conscientizar",
                 "hora"  : "10:00 às 11:40",
                 "tipo"  : "Presencial",
-                "autor" : "Luiz Sérgio Vanzela",
+                "autor" : "Vitória Okida",
+                "descricao" : "Esse é um projeto social criado por mim, voluntário, que visa a conscientização de crianças, adolescentes e jovens, sobre internet, cybercrimes, riscos, crimes contra honra e plataformas como jogos e redes sociais. Além disso também são abordados casos reais onde trabalhei, e a importância de estudar e como ela pode transformar a realidade das pessoas.",
                 "links" : [
                     {
                         "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4399/"
+                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/????/"
                     }
                 ]
             }
@@ -32,35 +20,17 @@
     },
     {
         "titulo" : "Dia 2",
-        "data"   : "2023-05-16",
+        "data"   : "2024-09-12",
         "eventos": [
             {
-                "titulo"    : "Bate-papo: Software Livre",
-                "hora"      : "08:00 às 09:40",
-                "tipo"      : "Presencial",
-                "autor"     : "Marcos Siriaco",
-                "descricao" : "Realize perguntas em um bate-papo sobre Software Livre com Marcos Siriaco, um dos responsáveis pelo Programa de Software Livre da Itaipu, que é referência nacional e internacional! Basta enviar sua pergunta seguindo o link abaixo.",
-                "links" : [
-
-                    {
-                        "pagina": "ENVIE AQUI",
-                        "url"   : "https://forms.gle/Xp7e3ekxPTRwj56BA"
-                    },
-                    {
-                        "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4400/"
-                    }
-                ]
-            },
-            {
-                "titulo": "Primeiros passos em Java com Spring Boot no desenvolvimento de APIs",
+                "titulo": "Revolução Industrial 5.0 e Mercado de Trabalho Internacional",
                 "hora"  : "10:00 às 11:40",
                 "tipo"  : "Presencial",
-                "autor" : "Bruno Gualda",
+                "autor" : "Eduardo Viana Pessoa",
                 "links" : [
                     {
                         "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4401/"
+                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/????/"
                     }
                 ]
 
@@ -69,126 +39,30 @@
     },
     {
         "titulo" : "Dia 3",
-        "data"   : "2023-05-17",
+        "data"   : "2024-09-13",
         "eventos": [
             {
-                "titulo": "Ataque DDoS - O que é e como se proteger?",
+                "titulo": "Sexta-feira 13: Os Pesadelos do Programador!",
                 "hora"  : "08:00 às 09:40",
                 "tipo"  : "Presencial",
-                "autor" : "Thales Gisuato",
+                "autor" : "André Angeluci",
                 "links" : [
 
                     {
                         "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4455/"
+                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/????/"
                     }
                 ]
             },
             {
-                "titulo": "Habilidades do Futuro",
+                "titulo": "O Impacto dos LLMs na Indústria de Tecnologia",
                 "hora"  : "10:00 às 11:40",
                 "tipo"  : "Presencial",
-                "autor" : "Thiago Vespa",
+                "autor" : "Augusto Medri",
                 "links" : [
                     {
                         "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4403/"
-                    }
-                ]
-
-            }
-        ]
-    },
-    {
-        "titulo" : "Dia 4",
-        "data"   : "2023-05-18",
-        "eventos": [
-            {
-                "titulo": "O uso da tecnologia da informação para resolver o gargalo de produtividade do setor de Construção Civil",
-                "hora"  : "08:00 às 09:40",
-                "tipo"  : "Presencial",
-                "autor" : "Anderson Garcia",
-                "links" : [
-
-                    {
-                        "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4404/"
-                    }
-                ]
-            },
-            {
-                "titulo": "Modelagem de Dados para iniciantes",
-                "hora"  : "10:00 às 11:40",
-                "tipo"  : "Presencial",
-                "autor" : "Daniel Reis",
-                "links" : [
-
-                    {
-                        "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4441/"
-                    }
-                ]
-
-            },
-            {
-                "titulo": "Oficinas",
-                "hora"  : "13:30 às 17:00",
-                "tipo"  : "Presencial",
-                "autor" : "Professores e alunos do IFSP",
-                "descricao" : "As oficinas são cursos de curta duração com período médio de 4 horas, na qual um aluno poderá participar utilizando um laboratório de informática para realização das atividades. As inscrições serão realizadas no dia do evento, por isso, para mais informações acesse nosso <a href='https://instagram.com/ifsp.cotesi' style='color: blue' target='_blank'>instagram</a>!",
-                "oficina" : [
-                    {
-                        "titulo"      : "Introdução ao LaTeX - processando e formatando seus textos acadêmicos de forma simples",
-                        "ministrante" : "Cris Paschoali"
-                    },
-                    {
-                        "titulo"      : "Cybersegurança: da privacidade a investigação digital",
-                        "ministrante" : "Ubiratan Nascimento"
-                    },
-                    {
-                        "titulo"      : "Como controlar o meu primeiro robô por meio da plataforma Arduino",
-                        "ministrante" : "Natal Henrique Cordeiro"
-                    },
-                    {
-                        "titulo"      : "Gerenciadores de referências bibliográficas - Mendeley",
-                        "ministrante" : "Eduardo Prando"
-                    },
-                    {
-                        "titulo"      : "Crystal: uma linguagem para humanos e computadores",
-                        "ministrante" : "João Lanjoni"
-                    }
-                ]
-
-            }
-        ]
-    },
-    {
-        "titulo" : "Dia 5",
-        "data"   : "2023-05-19",
-        "current": true,
-        "eventos": [
-            {
-                "titulo": "Indústria 4.0. A quarta revolução industrial.",
-                "hora"  : "08:00 às 09:40",
-                "tipo"  : "Presencial",
-                "autor" : "Paulo Fernando",
-                "links" : [
-
-                    {
-                        "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4442/"
-                    }
-                ]
-            },
-            {
-                "titulo": "LGPD - Uma abordagem prática do papel da LGPD na Proteção dos Dados",
-                "hora"  : "10:00 às 11:50",
-                "tipo"  : "Presencial",
-                "autor" : "Luiz Carlos Aguiar",
-                "links" : [
-                    {
-                        "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4405/"
+                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/????/"
                     }
                 ]
 
