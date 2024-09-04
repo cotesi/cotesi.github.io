@@ -97,54 +97,6 @@
           </section>
           <!-- end content-section -->
 
-
-          <section class="content-section" id="wicm">
-              <!-- end section-bg -->
-              <div class="container">
-                  <div class="row align-items-center">
-                      <div class="col-lg-8">
-                          <div data-scroll data-scroll-speed="-0.5">
-                              <div class="side-content left">
-                                  <h6>INSCREVA-SE NO</h6>
-                                  <h2>WICM</h2>
-                                  <p>
-                                      Se você é aluno ou pesquisador e deseja apresentar seu trabalho no Workshop de Iniciação Científica e
-                                      Monografias (WICM) saiba que o processo é muito simples! Basta montar sua apresentação de acordo com
-                                      os templates disponibilizados e se inscrever utilizando o formulário apenas clicando <a href="https://forms.gle/z3oAnYfHeBNQbtcG6" target="_blank" style="color: blue"><b>aqui</b></a>.
-                                      <br/><br/>
-                                      Para acessar os slides das apresentações clique <a href="https://drive.google.com/drive/folders/1WAZ8Y55NuFdIziWflecLbsVJRCChw5h4?usp=share_link">aqui</a>!
-                                      <br /><br />
-                                      <b>Templates:</b>
-                                  <ul>
-                                      <li><a href="wicm/template_wicm.key" target="_blank" style="color: #24c9fd">KEY - Keynote</a></li>
-                                      <li><a href="wicm/template_wicm.odp" target="_blank" style="color: #bc500e">ODP - LibreOffice Impress</a></li>
-                                      <li><a href="wicm/template_wicm.otp" target="_blank" style="color: #1286c7">OTP - LibreOffice Impress</a></li>
-                                      <li><a href="wicm/template_wicm.pptx" target="_blank" style="color: #bc3617">PPTX - PowerPoint</a></li>
-                                      <li><a href="wicm/template_wicm.pdf" target="_blank" style="color: red">PDF</a></li>
-                                  </ul>
-                                  </p>
-                                  <br/>
-                                  <h3>APRESENTAÇÕES</h3>
-                                    <p>
-                                        <img src="public/images/Lista_WICM.png"/>
-                                    </p>
-                              </div>
-                              <!-- end side-content -->
-                          </div>
-                          <!-- end data-scroll -->
-                      </div>
-                      <!-- end col-6 -->
-                      <div class="col-lg-4">
-                          <!-- end data-scroll -->
-                      </div>
-                      <!-- end col-6 -->
-                  </div>
-                  <!-- end row -->
-              </div>
-              <!-- end container -->
-          </section>
-
-
           <section class="content-section" data-background="#F6FAFB" id="eventos">
               <span class="section-bg" data-background="public/images/section-bg02.png" data-scroll data-scroll-speed="2"></span>
               <!-- end section-bg -->
