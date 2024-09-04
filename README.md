@@ -20,7 +20,7 @@ Se você é aluno ou pesquisador e deseja apresentar seu trabalho no Workshop de
 
 ### Apoiadores
 
-Caso queira conhecer quem são os apoiadores oficiais do VIII COTESI 2023 basta clicar [aqui](https://cotesi.org/#apoiadores)!
+Caso queira conhecer quem são os apoiadores oficiais do IX COTESI 2024 basta clicar [aqui](https://cotesi.org/#apoiadores)!
 
 ## Descrição
 
