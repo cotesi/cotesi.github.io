@@ -1,10 +1,5 @@
 [
     {
-        "name"  :"Code Software",
-        "url"   :"https://www.codesoftware.com.br",
-        "logo"  :"code_software.png"
-    },
-    {
         "name"  :"Facchini",
         "url"   :"https://www.facchini.com.br",
         "logo"  :"facchini.png"
@@ -15,43 +10,13 @@
         "logo"  :"flashnet.png"
     },
     {
-        "name"  :"He4rt Devs",
-        "url"   :"https://heartdevs.com",
-        "logo"  :"he4rt.png"
-    },
-    {
-        "name"  :"Hostagil",
-        "url"   :"https://hostagil.com.br",
-        "logo"  :"hostagil.png"
-    },
-    {
-        "name"  :"Intelecto",
-        "url"   :"https://intelecto.solutions",
-        "logo"  :"intelecto.png"
-    },
-    {
-        "name"  :"Jowanel",
-        "url"   :"https://www.jowanel.com.br",
-        "logo"  :"jowanel.png"
-    },
-    {
-        "name"  :"NKN Digital",
-        "url"   :"https://www.nkndigital.com.br",
-        "logo"  :"nkn_digital.png"
-    }, 
-    {
         "name"  :"Nimble",
         "url"   :"https://nimblevirtual.com.br",
         "logo"  :"nimble.png"
     },
     {
-        "name"  :"Porecatu",
-        "url"   :"https://www.superporecatu.com.br",
-        "logo"  :"porecatu.png"
-    },
-    {
-        "name"  :"ScyllaDB",
-        "url"   :"https://scylladb.com",
-        "logo"  :"scylla.png"
+        "name"  :"LINUXtips",
+        "url"   :"https://linuxtips.io/",
+        "logo"  :"linuxtips.png"
     }
 ]
