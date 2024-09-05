@@ -64,7 +64,7 @@
     },
     {
         "titulo" : "Dia 3",
-        "data"   : "2023-09-13",
+        "data"   : "2024-09-13",
         "eventos": [
             {
                 "titulo": "Sexta-feira 13: Os Pesadelos do Programador!",
@@ -75,7 +75,7 @@
 
                     {
                         "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4455/"
+                        "url"   : "#"
                     }
                 ]
             },
@@ -87,7 +87,7 @@
                 "links" : [
                     {
                         "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4403/"
+                        "url"   : "#"
                     }
                 ]
 
