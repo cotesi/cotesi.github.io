@@ -8,14 +8,8 @@
                 "titulo": "Abertura do evento",
                 "hora"  : "08:00 às 09:40",
                 "tipo"  : "Presencial",
-                "autor" : "Comissão organizadora",
-                "links" : 
-                [
-                    {
-                        "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4398/"
-                    }
-                ]
+                "autor" : "Comissão organizadora"
+                
             },
             {
                 "titulo": "Projeto Conscientizar",
@@ -25,7 +19,7 @@
                 "links" : [
                     {
                         "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4399/"
+                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/10098/"
                     }
                 ]
             }
@@ -39,13 +33,7 @@
                 "titulo"    : "A definir",
                 "hora"      : "08:00 às 09:40",
                 "tipo"      : "Presencial",
-                "autor"     : "A definir",
-                "links" : [
-                    {
-                        "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4400/"
-                    }
-                ]
+                "autor"     : "A definir"
             },
             {
                 "titulo": "Revolução Industrial 5.0 e Mercado de Trabalho Internacional",
@@ -55,7 +43,7 @@
                 "links" : [
                     {
                         "pagina": "SUAP",
-                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/4401/"
+                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/10099/"
                     }
                 ]
 
@@ -75,7 +63,7 @@
 
                     {
                         "pagina": "SUAP",
-                        "url"   : "#"
+                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/10119/"
                     }
                 ]
             },
@@ -87,7 +75,7 @@
                 "links" : [
                     {
                         "pagina": "SUAP",
-                        "url"   : "#"
+                        "url"   : "https://suap.ifsp.edu.br/eventos/inscricao_publica/10101/"
                     }
                 ]
 
